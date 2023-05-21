@@ -1,0 +1,33 @@
+---
+title: "M7 Reto"
+output: html_document
+---
+
+
+CARGAR BASES DE DATOS
+```{r}
+life_exp <- read.csv("lex.csv",header=TRUE, sep=",")
+child_mort <- read.csv("child_mortality_0_5_year_olds_dying_per_1000_born.csv",header=TRUE, sep=",")
+children_per_woman <- read.csv("children_per_woman_total_fertility.csv",header=TRUE, sep=",")
+```
+
+
+```{r}
+
+
+
+```
+
+
+```{r}
+
+
+
+```
+
+
+
+```{r}
+
+
+```
